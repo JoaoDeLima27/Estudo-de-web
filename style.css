@@ -24,6 +24,11 @@ button{
     text-align: center;
 }
 
+.destaque-fundo {
+    background-color:#1660E5; 
+    color: rgb(255, 255, 255);
+    padding: 1px 1px;          
+}
 
 h1 {
     font-family: "Poppins", sans-serif;
@@ -33,6 +38,7 @@ h1 {
     margin: 0;
     line-height: 80%; 
 }
+
 
 p {
     font-family: "Poppins", sans-serif;
