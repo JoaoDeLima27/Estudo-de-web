@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #EFEFEF;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Poppins", sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+    color: #000;
+    margin: 0;
+    line-height: 80%; /* Aproxima do sobrenome */
+}
+
+p {
+    font-family: "Poppins", sans-serif;
+    font-size: 40px;
+    font-weight: 300;
+    color: #000;
+    margin-top: -5px; /* puxa o sobrenome mais perto */
+}
